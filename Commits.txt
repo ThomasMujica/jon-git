@@ -1,0 +1,110 @@
+commit b8df0ef743ac6ea5d655cc58e1710a5308253745
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Thu Sep 14 12:46:55 2023 -0300
+
+    Poniendo chulo html
+
+commit 94503148d83756c91f459e4363ff9bf065b69307
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Thu Sep 14 10:05:20 2023 -0300
+
+    Agregando 2 parrafos
+
+commit c514ab8b1c53ae3404ea993a78b4492960d878cc
+Merge: e57d533 c5e9821
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 21:58:57 2023 -0300
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit e57d5338198829ad6f89ced677aeaf47adc57c1d
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 21:39:08 2023 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit c5e9821b091401f859fca9396a08d20adae233ea
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 21:39:08 2023 -0300
+
+    Agregando estaciones del año
+
+commit 56dbdedc3316b1258eaaaa3e71ad1d60bc58a235
+Merge: 75e44c3 a751be9
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 21:00:56 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit a751be94651a0dd1c7088243b22a3c0a1c0cdcdb
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 20:48:21 2023 -0300
+
+    Agregando script.js a index.html
+
+commit 75e44c3e023842c2ca5043b9d5b859b90e5ee830
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 20:44:20 2023 -0300
+
+    Agregando style.css al index.html
+
+commit b4dfb0131cad0f18501c3d65e3dc457387b3c329
+Merge: f80344d d5abf5e
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 20:31:50 2023 -0300
+
+    Merge branch 'js'
+
+commit d5abf5eb2c8350be1dc051e58a236bb9591c3f5e
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 18:30:15 2023 -0300
+
+    Creando .js
+
+commit f80344d2e7d3a5f2fd96c2be023d6a089fdde12a
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 18:23:06 2023 -0300
+
+    Creando .css
+
+commit 9c82e469da2856109e5f29b001bcffe45f4283e6
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 18:18:06 2023 -0300
+
+    Creando una rama HTML y su respectivo archivo
+
+commit 31e8bd922971beac1cff883aeecba4fec58b9463
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 17:51:59 2023 -0300
+
+    Ignorando archivos .exe y creando archivo Git_GitHub_Inf.md
+
+commit 448e9712bce96f14018ecadf4a2b9d374ec48c0e
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 13:48:22 2023 -0300
+
+    Agregando .txt a la licencia
+
+commit 7bb7ce89730343b969906c0c000f3d75cd970f94
+Author: Thomas Mujica <110995184+ThomasMujica@users.noreply.github.com>
+Date:   Wed Sep 13 13:44:27 2023 -0300
+
+    Creando licencia del repositorio
+
+commit 0bb18034f3ac8b55d2f14fcb4c51579ff04ec08f
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 13:34:44 2023 -0300
+
+    Agregando mas contenido al README
+
+commit 7bab6c55285625b7db7344615f31d340867cd392
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 12:05:11 2023 -0300
+
+    Agregando contenido inicial al README
+
+commit 0d3f7ea5a5b6964e9e2bca6ce9d11929f9c7336d
+Author: Thomas Mujica <temc.business@gmail.com>
+Date:   Wed Sep 13 11:58:03 2023 -0300
+
+    Primer Commit 😁
